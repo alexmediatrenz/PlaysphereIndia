@@ -1,0 +1,30 @@
+playsphere-india/
+├── client/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── manifest.json
+│   │   └── assets/
+│   │       ├── images/
+│   │       └── fonts/
+│   └── src/
+│       ├── components/
+│       │   ├── auth/
+│       │   ├── games/
+│       │   ├── chat/
+│       │   ├── news/
+│       │   └── common/
+│       ├── redux/
+│       ├── utils/
+│       ├── services/
+│       ├── hooks/
+│       ├── styles/
+│       └── App.js
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── utils/
+│   └── server.js
+└── package.json
